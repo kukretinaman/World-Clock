@@ -36,7 +36,6 @@ World Clock is a digital clock application that displays the current time for va
 
 - **index.html**: The main HTML file that contains the structure of the web page.
 - **3_project.js**: The JavaScript file that contains the logic for fetching and displaying the current time.
-- **styles.css**: The CSS file that contains the styling for the application.
 
 ## Contributors
 - [Naman Kukreti](https://github.com/kukretinaman)
